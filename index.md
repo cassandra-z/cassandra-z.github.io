@@ -1,45 +1,29 @@
----
-layout: default
----
 
-## About Me
+<img class="profile-picture" src="https://i.vsco.co/644b502b3721d774a35a7e1c?c=1&d=1&w=300">
 
-<img class="profile-picture" src="sherlock.jpg">
+hiya, i'm cassandra!
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+currently a __senior @ carnegie mellon__ studying __information systems__ with an additional major in __computer science__
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+in general, i'm interested in building safe software that bring people together 
 
-## Research Interest
+## experience
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+__software engineer intern @ [persona](https://withpersona.com/)__  [june-august 2025]
+<div style="margin-left: 20px;">shipped authentication controls for enterprise customers with flexible security needs with daily deployments to prod. integrated SAML/IdP systems with password flows and added admin tools for granular security control.</div>
 
-## Publications
+__software engineer intern @ [roche](https://www.roche.com/)__  [may-august 2024]
+<div style="margin-left: 20px;">migrated main build pipelines from jenkins to github actions, cutting build times by a lot. set up platform-wide notification system on AWS EKS with kustomize & test internal tooling for scaffolding S3 buckets.</div>
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## work
 
-## Typography
+* [PEFT for Federated Instruction Tuning with Homogeneous and
+Heterogeneous LoRA](https://drive.google.com/file/d/1pNgIsTVH_on767GCtjW9ii6SjqglNtzM/view?usp=sharing) [Hao-yung Weng, Wang Rao, Cassandra Zhou]
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+* [Ohio Army National Guard Hacking a Recruiting Challenge (Press)](https://www.nationalguard.mil/News/News-Features/Article/4196842/ohio-army-national-guard-hacking-a-recruiting-challenge/) [C. Zhou, O. Van Zandt, L. Wu, D. Patel]
 
-Here is a table
+## communities
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* ex-head of content @ [cmu scottylabs](https://www.scottylabs.org/), tartanhacks organizer (circa 2022-2025)
+* consultant @ [carnegie mellon 180 degrees consulting](https://www.cmu180dc.org/)
+* eagle scout @ boy scouts of america, SVMBC T2468 (circa 2021)

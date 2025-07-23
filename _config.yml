@@ -1,24 +1,21 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
-
+title: cassandra zhou
+url: "https://cassandra-z.github.io"
+baseurl: ""  # Leave empty since your site will be at cassandra-z.github.io, not at a subdirectory
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+#ins_logo: "./bits-logo.png"  # Uncomment if you want to add a logo
 
-tracking_id: #
+tracking_id: #  # Add your Google Analytics ID if you want tracking
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/cassandra-z"
+footer_text: "© 2025 cassandra zhou"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "about"
+   link: "/" 
+ - name: "other"
+   link: "other"

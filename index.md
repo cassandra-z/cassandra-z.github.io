@@ -1,7 +1,7 @@
 
 <img class="profile-picture" src="https://i.vsco.co/644b502b3721d774a35a7e1c?c=1&d=1&w=300">
 
-hiya, i'm cassandra!
+hiya, i'm cassandra
 
 currently a __senior @ carnegie mellon__ studying __information systems__ with an additional major in __computer science__
 

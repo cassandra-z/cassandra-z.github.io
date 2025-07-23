@@ -19,3 +19,6 @@ nav:
    link: "/" 
  - name: "other"
    link: "other"
+
+plugins:
+  - jekyll-target-blank

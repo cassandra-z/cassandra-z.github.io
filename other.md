@@ -6,7 +6,7 @@ is_other: true
 
 * doing a lot of running in summer 2025, training for **sf marathon 2025 second half**
 
-* consider myself a dinner party hosting hobbyist -- my roommate and i host thanksgiving for our college friends every year (2 turkeys and counting), we also invite friends to make dumplings together every chinese new year! food is love <3
+* consider myself a dinner-party-hosting hobbyist -- my roommate and i host thanksgiving for our college friends every year (2 turkeys and counting..), we also invite friends to make dumplings every chinese new year! food is love <3
 
 ## places i've been
 

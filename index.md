@@ -10,10 +10,10 @@ in general, i'm interested in building safe software that brings people together
 ## experience
 
 __software engineer intern @ [persona](https://withpersona.com/)__  [june-august 2025]
-<div style="margin-left: 20px;">shipped authentication controls for enterprise customers with flexible security needs with daily deployments to prod. integrated SAML/IdP systems with password flows and added admin tools for granular security control.</div>
+<div style="margin-left: 20px;">shipped authentication controls for enterprise customers with flexible security needs through daily deployments to prod. integrated SAML/IdP systems with password flows and added admin tools for granular security control.</div>
 
 __software engineer intern @ [roche](https://www.roche.com/)__  [may-august 2024]
-<div style="margin-left: 20px;">migrated main build pipelines from jenkins to github actions, cutting build times by a lot. set up platform-wide notification system on AWS EKS with kustomize & test internal tooling for scaffolding S3 buckets.</div>
+<div style="margin-left: 20px;">migrated main build pipelines from jenkins to github actions, cutting build times by ~40%. set up platform-wide notification system on AWS EKS with kustomize & test internal tooling for scaffolding S3 buckets.</div>
 
 ## work
 

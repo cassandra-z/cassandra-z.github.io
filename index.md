@@ -5,7 +5,7 @@ hiya, i'm cassandra
 
 currently a __senior @ carnegie mellon__ studying __information systems__ with an additional major in __computer science__
 
-in general, i'm interested in building safe software that brings people together 
+in general, i'm interested in building software that keeps people safe & brings people together 
 
 ## experience
 

@@ -1,13 +1,13 @@
 title: cassandra zhou
 url: "https://runxinz.github.io"
-baseurl: ""  # Leave empty since your site will be at cassandra-z.github.io, not at a subdirectory
+baseurl: ""  
 markdown: kramdown
 #ins_logo: "./bits-logo.png"  # Uncomment if you want to add a logo
 
 tracking_id: #  # Add your Google Analytics ID if you want tracking
 
 footer: yes
-footer_url: "https://github.com/cassandra-z"
+footer_url: "https://github.com/runxinz"
 footer_text: "© 2025 cassandra zhou"
 
 sass:
